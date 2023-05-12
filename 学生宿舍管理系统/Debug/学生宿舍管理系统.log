@@ -1,0 +1,3 @@
+﻿  源.cpp
+G:\C语言\学生宿舍管理系统\学生宿舍管理系统\源.cpp(993): warning C4715: “dormitory_seek”: 不是所有的控件路径都返回值
+  学生宿舍管理系统.vcxproj -> G:\C语言\学生宿舍管理系统\Debug\学生宿舍管理系统.exe
